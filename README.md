@@ -1,2 +1,2 @@
 # hello-world
-Welcome to my GitHub repository. I'm SueCplusplus. Need help with technical writing? Contact me. I put the *writing* in technical writing.
+Show me your code. Together we'll tell the world the beautiful thing you did.
